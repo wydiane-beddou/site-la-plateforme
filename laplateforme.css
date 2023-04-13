@@ -1,0 +1,28 @@
+<style>
+    #body {
+        background-color: #fffac9;
+        font-family: monospace;
+        font-size: 20px;
+    }
+    .img{
+        align-self: center;
+    }
+    .zoomable {
+        zoom:185%;
+    }
+    ul {
+        list-style: none;
+        padding: 0;
+    }
+    li {
+        margin-bottom: 25px; 
+    }
+    #li {
+        display: flex; 
+        align-self:flex-start; 
+        justify-content: space-around;
+        background-color: #f8f8f8;
+        padding: 10px;
+        border-radius: 5px;
+    }
+</style>
